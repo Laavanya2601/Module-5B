@@ -1,3 +1,6 @@
+<img width="1878" height="920" alt="Screenshot 2025-11-22 231106" src="https://github.com/user-attachments/assets/c39c6532-e94c-4014-85f5-288d346e8865" />
+
+
 # EX:5B NumPy Program: Column-wise Sorting of a 2D Array
 
 ##  Aim
